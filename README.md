@@ -1,3 +1,5 @@
+# JUST A LITTLE PROJECT TO PRACTICE BASIC FRONTEND DEVELOPMENT
+<hr />
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
